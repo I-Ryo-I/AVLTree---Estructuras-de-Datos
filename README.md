@@ -92,3 +92,6 @@ Insertar `48, 28, 75, 18, 38, 68, 88, 36, 37, 35, 34, 39` produce:
 - El PDF se genera en **Java puro** (sin iText, PDFBox ni ninguna dependencia externa).
 - La animación de búsqueda resalta el camino recorrido nodo por nodo con color naranja, y el nodo encontrado en verde.
 - La velocidad del slider afecta tanto la animación de búsqueda como la inserción automática de la secuencia.
+
+## ⚙️ Link del video explicativo - Youtube
+https://youtu.be/eExSZ3dq5vw
